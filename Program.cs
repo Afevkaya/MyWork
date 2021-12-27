@@ -6,6 +6,8 @@ namespace Odev1
     {
         static void Main(string[] args)
         {
+            // 1.ÖDEV
+            
             // 1.soru
             /*
             int diziUzunlugu;
@@ -32,7 +34,7 @@ namespace Odev1
             */
 
             
-            // 2.ödev
+            // 2.soru
             /*
             int numberOne,numberTwo;
             Console.WriteLine("Lutfen birinci sayi giriniz");
@@ -56,7 +58,7 @@ namespace Odev1
             }
             */
 
-            // 3.ödev
+            // 3.soru
             /*
             int number;
             Console.WriteLine("Lutfen bir sayi giriniz");
@@ -75,7 +77,7 @@ namespace Odev1
             }
             */
 
-            // 4.ödev
+            // 4.soru
             /*
             string sentence;
             Console.WriteLine("Lutfen bir cümle giriniz");
@@ -91,6 +93,9 @@ namespace Odev1
             characterCount = sentence.Length;
             Console.WriteLine(characterCount);
             */
+
+
+
         }
     }
 }
